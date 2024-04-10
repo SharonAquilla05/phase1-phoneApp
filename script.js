@@ -45,5 +45,6 @@ document.addEventListener("DOMContentLoaded", function () {
     fetchPhones().then((data) => {
       displayPhones(data);
     });
+    
   });
   
