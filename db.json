@@ -1,0 +1,76 @@
+{
+    "phones": [
+      {
+        "id": 1,
+        "brand": "Acer ",
+        "phone_name": "Chromebook Tab 10",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-chromebook-tab-10.jpg",
+        "price": 15000
+      },
+      {
+        "id": 2,
+        "brand": "Acer ",
+        "phone_name": "Iconia Talk S",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-iconia-talk-s.jpg",
+        "price": 23000
+      },
+      {
+        "id": 3,
+        "brand": "Plum ",
+        "phone_name": "Ram 10 LTE",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/plum-ram10.jpg",
+        "price": 15000
+      },
+      {
+        "id": 4,
+        "brand": "Plum ",
+        "phone_name": "Flipper LTE",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/plum-flipper.jpg",
+        "price":59000
+      },
+  
+      {
+        "id": 5,
+        "brand": "Apple ",
+        "phone_name": "iPhone 15 Pro Max",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg",
+        "price":272000
+      },
+      {
+        "id": 6,
+        "brand": "Apple ",
+        "phone_name": "iPhone 15 Pro",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro.jpg",
+        "price":175000
+      },
+      {
+        "id": 7,
+        "brand": "alcatel ",
+        "phone_name": "1B (2022)",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1b-2022.jpg",
+        "price":8500
+      },
+      {
+        "id": 8,
+        "brand": "alcatel ",
+        "phone_name": "1L Pro (2021)",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1l-pro-2021.jpg",
+        "price":9500
+      },
+      {
+        "id": 9,
+        "brand": "Archos ",
+        "phone_name": "Diamond",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/archos-diamond-2019.jpg",
+        "price":1200
+      },
+      {
+        "id": 10,
+        "brand": "Archos ",
+        "phone_name": "Oxygen 68XL",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/archos-oxygen-68xl.jpg",
+        "price":2500
+      }
+    ]
+  }
+  

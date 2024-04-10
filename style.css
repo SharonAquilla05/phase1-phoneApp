@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;  /* Light blue background */
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+    padding: 10px 15px;
+  }
+  
+  a:hover {
+    color: #f03e7a;  /* Vibrant pink hover */
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  /* Navigation Bar */
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-links {
+    display: flex;
+  }
+  
+  .nav-links a.active {
+    font-weight: bold;
+    color: #f03e7a; /* Pink for active links */
+  }
+  
+  /* Main Content */
+  
+  .container {
+    padding: 50px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    color: #3498db; /* Darker blue for headings */
+  }
+  
+  p {
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+  #search-form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  #searchInput {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+  
+  #search-result {
+    padding: 10px;
+    border: 1px solid #f03e7a;  /* Pink border for search result */
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  #show-more-btn {
+    background-color: #f03e7a;  /* Pink button */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #show-more-btn:hover {
+    background-color: #d91f63; /* Darker pink hover */
+  }
+  
+  /* You can add styles for #phoneList here based on its content */
+  

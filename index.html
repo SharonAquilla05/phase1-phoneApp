@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />`
+  <title>PhoneHub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <div>
+      <img src="https://i.pinimg.com/originals/6e/db/09/6edb09d09c4044f3af171fa4f36d4c11.jpg" alt="phone logo" style="height: 100px" />
+    </div>
+    <div class="nav-links">
+      <a href="#Home" class="active">Home</a>
+      <a href="#" class="active">Services</a>
+      <a href="#" class="active">Contact</a>
+    </div>
+  </nav>
+
+  <div class="container" id="Home">
+    <h1>Welcome to Phone Hub!</h1>
+    <p>We offer the latest smartphones and exceptional services to keep you connected.</p>  <div>
+   <form id="search-form">
+
+       <input type="text" id="searchInput" placeholder="search phones..." >
+       <button>search</button>
+    </form>
+    <div id="search-result"></div>
+    <button id="show-more-btn">Show more</button>
+  </div>
+  <div id="phoneList">
+
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
