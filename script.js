@@ -5,7 +5,7 @@ function likePhone(id) {
   })
     .then((res) => res.json())
     .then((data) => console.log(data))
-    .catch((err) => console.error(err));
+    
 
     // button.classList.toggle("like")
     
