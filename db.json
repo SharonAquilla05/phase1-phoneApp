@@ -11,6 +11,60 @@
     },
     {
       "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
     }
   ],
   "phones": [
@@ -20,7 +74,7 @@
       "phone_name": "Chromebook Tab 10",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-chromebook-tab-10.jpg",
       "price": 15000,
-      "description":"Included stylus, good battery life (up to 9 hours claimed), affordable price point"
+      "description": "Included stylus, good battery life (up to 9 hours claimed), affordable price point"
     },
     {
       "id": 2,
@@ -28,7 +82,7 @@
       "phone_name": "Iconia Talk S",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/acer-iconia-talk-s.jpg",
       "price": 23000,
-      "description":"7-inch HD IPS display (1280x800 resolution), 32GB of internal storage with a microSD card slot for expansion."
+      "description": "7-inch HD IPS display (1280x800 resolution), 32GB of internal storage with a microSD card slot for expansion."
     },
     {
       "id": 3,
@@ -36,7 +90,7 @@
       "phone_name": "Ram 10 LTE",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/plum-ram10.jpg",
       "price": 15000,
-      "description":"t is IP68 certified  meaning it is  water resistant up to 1.2 meters for 35 minutes, dustproof, and shockproof up to 1.8 meters. "
+      "description": "t is IP68 certified  meaning it is  water resistant up to 1.2 meters for 35 minutes, dustproof, and shockproof up to 1.8 meters. "
     },
     {
       "id": 4,
@@ -44,7 +98,7 @@
       "phone_name": "Flipper LTE",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/plum-flipper.jpg",
       "price": 59000,
-      "description":"The Plum Flipper LTE is a classic flip phone with modern features like 4G LTE connectivity. "
+      "description": "The Plum Flipper LTE is a classic flip phone with modern features like 4G LTE connectivity. "
     },
     {
       "id": 5,
@@ -52,7 +106,7 @@
       "phone_name": "iPhone 15 Pro Max",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg",
       "price": 272000,
-      "description":"he iPhone 15 Pro Max is the latest and greatest iPhone from Apple. It boasts a powerful A17 Pro chip, a gorgeous Super Retina XDR display with a 120Hz refresh rate, and an improved camera system. Here are some key features of the iPhone 15 Pro Max:"
+      "description": "he iPhone 15 Pro Max is the latest and greatest iPhone from Apple. It boasts a powerful A17 Pro chip, a gorgeous Super Retina XDR display with a 120Hz refresh rate, and an improved camera system. Here are some key features of the iPhone 15 Pro Max:"
     },
     {
       "id": 6,
@@ -68,7 +122,7 @@
       "phone_name": "1B (2022)",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1b-2022.jpg",
       "price": 8500,
-      "description":"The Alcatel 1B 2022 is an entry-level smartphone that offers basic features at an affordable price. "
+      "description": "The Alcatel 1B 2022 is an entry-level smartphone that offers basic features at an affordable price. "
     },
     {
       "id": 8,
@@ -76,7 +130,7 @@
       "phone_name": "1L Pro (2021)",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/alcatel-1l-pro-2021.jpg",
       "price": 9500,
-      "description":"The Alcatel 1L Pro 2021 is an entry-level smartphone that offers a step up from the standard 1L model in terms of performance. "
+      "description": "The Alcatel 1L Pro 2021 is an entry-level smartphone that offers a step up from the standard 1L model in terms of performance. "
     },
     {
       "id": 9,
@@ -84,7 +138,7 @@
       "phone_name": "Diamond",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/archos-diamond-2019.jpg",
       "price": 1200,
-      "description":"It has a 5-inch 720 x 1280 resolution display, a 1.5 GHz octa-core processor, 2GB of RAM, 16GB of storage, a 16MP rear camera, and an 8MP front-facing camera. It runs on Android 5.1 "
+      "description": "It has a 5-inch 720 x 1280 resolution display, a 1.5 GHz octa-core processor, 2GB of RAM, 16GB of storage, a 16MP rear camera, and an 8MP front-facing camera. It runs on Android 5.1 "
     },
     {
       "id": 10,
@@ -92,7 +146,7 @@
       "phone_name": "Oxygen 68XL",
       "image": "https://fdn2.gsmarena.com/vv/bigpic/archos-oxygen-68xl.jpg",
       "price": 2500,
-      "description":"It features a large 6.85-inch IPS display with a resolution of 640 x 1352 pixels. It is powered by a MediaTek Helio P22 processor with 3GB of RAM and 32GB of storage "
+      "description": "It features a large 6.85-inch IPS display with a resolution of 640 x 1352 pixels. It is powered by a MediaTek Helio P22 processor with 3GB of RAM and 32GB of storage "
     }
   ]
 }
