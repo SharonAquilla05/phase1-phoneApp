@@ -29,6 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
         phoneDiv.innerHTML = `<p>${phone.phone_name}</p>
             <img src="${phone.image}" alt="image">
             <strong>${phone.brand}</strong>
+            <h5>${phone.description}</h5>
             <p>${phone.price}</p>
             <button onclick="likePhone(${phone.id})">Like</button>
             `;
