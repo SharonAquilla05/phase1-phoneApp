@@ -1,3 +1,13 @@
+function likePhone(id){
+    fetch("http://localhost:3000/liked", {
+        method: "POST",
+        body: JSON.stringify({ likedPhoneId: id })
+    })
+    .then((res) => res.json())
+    .then(data => console.log(data))
+    .catch(err => console.error(err))
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     const phoneList = document.getElementById("phoneList");
     const searchInput = document.getElementById("searchInput");
@@ -20,6 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <img src="${phone.image}" alt="image">
             <strong>${phone.brand}</strong>
             <p>${phone.price}</p>
+            <button onclick="likePhone(${phone.id})">Like</button>
             `;
         phoneList.appendChild(phoneDiv);
       });
@@ -45,6 +56,5 @@ document.addEventListener("DOMContentLoaded", function () {
     fetchPhones().then((data) => {
       displayPhones(data);
     });
-    
   });
   
