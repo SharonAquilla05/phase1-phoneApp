@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff;  /* Light blue background */
+    background-color: #f0f1ff;  /* Light blue background */
   }
   
   a {
     color: #333;
-    text-decoration: none;
+    text-decoration:dotted;
     padding: 10px 15px;
   }
   
@@ -91,7 +91,7 @@ body {
     background-color: #d91f63; /* Darker pink hover */
   }
   
-  /* You can add styles for #phoneList here based on its content */
+  
   h2{
     text-align: right;
   }
