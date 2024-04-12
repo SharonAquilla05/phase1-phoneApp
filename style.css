@@ -97,9 +97,6 @@ p {
   background-color: #d91f63; /* Darker pink hover */
 }
 
-h2 {
-  text-align: right;
-}
 
 #phoneList {
   display: grid;
