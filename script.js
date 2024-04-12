@@ -78,6 +78,6 @@ document.addEventListener("DOMContentLoaded", function () {
     searchBar(searchTerm);
   });
   fetchPhones().then((data) => {
-    displayPhones();
+    displayPhones(data);
   });
 });
