@@ -1,4 +1,4 @@
-function likePhone() {
+function likePhone(id) {
   fetch("http://localhost:3000/liked", {
     method: "POST",
     body: JSON.stringify({ likedPhoneId: id }),
