@@ -9,7 +9,7 @@ function likePhone(id) {
 
     // button.classList.toggle("like")
     
-}
+
 
 document.addEventListener("DOMContentLoaded", function () {
   const phoneList = document.getElementById("phoneList");
