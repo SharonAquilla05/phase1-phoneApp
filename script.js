@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const filterPhones = allPhones.filter((phone) =>
       phone.phone_name.toLowerCase().includes(searchTerm.toLowerCase())
     );
-    displayPhones(filterPhone);
+    displayPhones(filterPhones);
   }
 
   searchForm.addEventListener("submit", function (event) {
