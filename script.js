@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Listen to input event on search input for real-time filtering
   searchInput.addEventListener("input", function () {
     const searchTerm = searchInput.value.trim();
-    searchBar(searchterm);
+    searchBar(searchTerm);
   });
   fetchPhones().then((data) => {
     displayPhones(data);
